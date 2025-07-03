@@ -5,7 +5,7 @@ import cv2
 import configparser
 from datetime import datetime
 from pptx import Presentation
-from pptx.util import Cm
+from pptx.util import Cm, Inches
 from PIL import Image
 import tkinter as tk
 from tkinter import filedialog, scrolledtext, ttk
@@ -13,7 +13,7 @@ import threading
 import queue
 import json
 from pptx.enum.shapes import MSO_SHAPE_TYPE
-
+from pptx import Presentation
 
 # --- Configuração do Logging ---
 logging.basicConfig(
@@ -134,7 +134,7 @@ class AutomacaoPPT:
                         slide_atual = prs.slides.add_slide(template_slide_layout)
                         logging.info(f"Adicionando novo slide para as próximas {layout_por_slide} imagens.")
                     
-                    # Adiciona e formata a imagem
+                    # Adiciona e formata a imagem no quadro adequado
                     posicao_atual = posicoes[contador_imagens_no_slide % layout_por_slide]
                     left = Cm(posicao_atual['left'])
                     top = Cm(posicao_atual['top'])
@@ -142,6 +142,14 @@ class AutomacaoPPT:
                     slide_atual.shapes.add_picture(caminho_completo, left, top, width=Cm(largura_cm), height=Cm(altura_cm))
                     logging.info(f"Imagem '{nome_ficheiro}' adicionada ao slide.")
                     
+                    # Atualizando os campos de texto (local e descrição)
+                    for shape in slide_atual.shapes:
+                        if shape.has_text_frame:
+                            if "Local" in shape.text:
+                                shape.text = f"Local: APS Hortolândia"
+                            elif "Descrição da Ocorrência" in shape.text:
+                                shape.text = f"Descrição da Ocorrência: Substituição {nome_ficheiro.split('.')[0]}."
+
                     contador_imagens_no_slide += 1
                     
                     # Move o ficheiro processado
@@ -172,6 +180,8 @@ class AutomacaoPPT:
             if gui_queue:
                 gui_queue.put(f"ERRO CRÍTICO: {e}")
                 gui_queue.put("FINALIZADO")
+
+# O código do App não foi alterado
 
 
 class App:

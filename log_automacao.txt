@@ -61,3 +61,79 @@
 2025-07-03 12:18:44,586 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-06 at 12.54.36.jpeg (Variância: 14.99)
 2025-07-03 12:18:44,593 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.54.36.jpeg' adicionada ao slide.
 2025-07-03 12:18:44,772 - INFO - Relatório final salvo como 'C:/Users/11/OneDrive/Documentos/REPOSITORIOS/PROJETOS PESSOAIS/AutomacaoPPT/relatorios_gerados\Relatorio_Fotografico_2025-07-03_121844.pptx'
+2025-07-03 19:35:42,656 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.10.jpeg (Variância: 71.68)
+2025-07-03 19:35:42,664 - INFO - Adicionando novo slide para as próximas 12 imagens.
+2025-07-03 19:35:42,673 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.10.jpeg' adicionada ao slide.
+2025-07-03 19:35:42,750 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.25.jpeg (Variância: 58.01)
+2025-07-03 19:35:42,753 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.25.jpeg' adicionada ao slide.
+2025-07-03 19:35:42,818 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.42.jpeg (Variância: 12.71)
+2025-07-03 19:35:42,823 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.42.jpeg' adicionada ao slide.
+2025-07-03 19:35:42,917 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.23.41.jpeg (Variância: 7.59)
+2025-07-03 19:35:42,922 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.23.41.jpeg' adicionada ao slide.
+2025-07-03 19:35:43,003 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.23.54.jpeg (Variância: 41.52)
+2025-07-03 19:35:43,051 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.23.54.jpeg' adicionada ao slide.
+2025-07-03 19:35:43,157 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.04.jpeg (Variância: 17.59)
+2025-07-03 19:35:43,166 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.04.jpeg' adicionada ao slide.
+2025-07-03 19:35:43,250 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.27.jpeg (Variância: 17.48)
+2025-07-03 19:35:43,256 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.27.jpeg' adicionada ao slide.
+2025-07-03 19:35:43,346 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.40.jpeg (Variância: 13.64)
+2025-07-03 19:35:43,351 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.40.jpeg' adicionada ao slide.
+2025-07-03 19:35:43,422 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.58.jpeg (Variância: 5.08)
+2025-07-03 19:35:43,430 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.58.jpeg' adicionada ao slide.
+2025-07-03 19:35:43,599 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.53.22.jpeg' adicionada ao slide.
+2025-07-03 19:35:43,732 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-06 at 12.54.10.jpeg (Variância: 15.56)
+2025-07-03 19:35:43,738 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.54.10.jpeg' adicionada ao slide.
+2025-07-03 19:35:43,876 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-06 at 12.54.36.jpeg (Variância: 14.99)
+2025-07-03 19:35:43,882 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.54.36.jpeg' adicionada ao slide.
+2025-07-03 19:35:44,003 - INFO - Relatório final salvo como 'C:/Users/11/OneDrive/Documentos/REPOSITORIOS/PROJETOS PESSOAIS/AutomacaoPPT/relatorios_gerados\Relatorio_Fotografico_2025-07-03_193543.pptx'
+2025-07-03 19:44:30,938 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-03 19:45:28,003 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.10.jpeg (Variância: 71.68)
+2025-07-03 19:45:28,008 - INFO - Adicionando novo slide para as próximas 12 imagens.
+2025-07-03 19:45:28,016 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.10.jpeg' adicionada ao slide.
+2025-07-03 19:45:28,086 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.25.jpeg (Variância: 58.01)
+2025-07-03 19:45:28,091 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.25.jpeg' adicionada ao slide.
+2025-07-03 19:45:28,162 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.42.jpeg (Variância: 12.71)
+2025-07-03 19:45:28,169 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.42.jpeg' adicionada ao slide.
+2025-07-03 19:45:28,242 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.23.41.jpeg (Variância: 7.59)
+2025-07-03 19:45:28,246 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.23.41.jpeg' adicionada ao slide.
+2025-07-03 19:45:28,316 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.23.54.jpeg (Variância: 41.52)
+2025-07-03 19:45:28,320 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.23.54.jpeg' adicionada ao slide.
+2025-07-03 19:45:28,395 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.04.jpeg (Variância: 17.59)
+2025-07-03 19:45:28,402 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.04.jpeg' adicionada ao slide.
+2025-07-03 19:45:28,482 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.27.jpeg (Variância: 17.48)
+2025-07-03 19:45:28,487 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.27.jpeg' adicionada ao slide.
+2025-07-03 19:45:28,555 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.40.jpeg (Variância: 13.64)
+2025-07-03 19:45:28,559 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.40.jpeg' adicionada ao slide.
+2025-07-03 19:45:28,639 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.58.jpeg (Variância: 5.08)
+2025-07-03 19:45:28,645 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.58.jpeg' adicionada ao slide.
+2025-07-03 19:45:29,106 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.53.22.jpeg' adicionada ao slide.
+2025-07-03 19:45:29,255 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-06 at 12.54.10.jpeg (Variância: 15.56)
+2025-07-03 19:45:29,260 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.54.10.jpeg' adicionada ao slide.
+2025-07-03 19:45:29,391 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-06 at 12.54.36.jpeg (Variância: 14.99)
+2025-07-03 19:45:29,396 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.54.36.jpeg' adicionada ao slide.
+2025-07-03 19:45:29,539 - INFO - Relatório final salvo como 'C:/Users/11/OneDrive/Documentos/REPOSITORIOS/PROJETOS PESSOAIS/AutomacaoPPT/relatorios_gerados\Relatorio_Fotografico_2025-07-03_194529.pptx'
+2025-07-03 19:52:16,121 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.10.jpeg (Variância: 71.68)
+2025-07-03 19:52:16,127 - INFO - Adicionando novo slide para as próximas 12 imagens.
+2025-07-03 19:52:16,133 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.10.jpeg' adicionada ao slide.
+2025-07-03 19:52:16,204 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.25.jpeg (Variância: 58.01)
+2025-07-03 19:52:16,211 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.25.jpeg' adicionada ao slide.
+2025-07-03 19:52:16,282 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.42.jpeg (Variância: 12.71)
+2025-07-03 19:52:16,288 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.42.jpeg' adicionada ao slide.
+2025-07-03 19:52:16,365 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.23.41.jpeg (Variância: 7.59)
+2025-07-03 19:52:16,372 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.23.41.jpeg' adicionada ao slide.
+2025-07-03 19:52:16,448 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.23.54.jpeg (Variância: 41.52)
+2025-07-03 19:52:16,454 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.23.54.jpeg' adicionada ao slide.
+2025-07-03 19:52:16,528 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.04.jpeg (Variância: 17.59)
+2025-07-03 19:52:16,539 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.04.jpeg' adicionada ao slide.
+2025-07-03 19:52:16,616 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.27.jpeg (Variância: 17.48)
+2025-07-03 19:52:16,623 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.27.jpeg' adicionada ao slide.
+2025-07-03 19:52:16,698 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.40.jpeg (Variância: 13.64)
+2025-07-03 19:52:16,702 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.40.jpeg' adicionada ao slide.
+2025-07-03 19:52:16,778 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.58.jpeg (Variância: 5.08)
+2025-07-03 19:52:16,789 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.58.jpeg' adicionada ao slide.
+2025-07-03 19:52:16,995 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.53.22.jpeg' adicionada ao slide.
+2025-07-03 19:52:17,163 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-06 at 12.54.10.jpeg (Variância: 15.56)
+2025-07-03 19:52:17,171 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.54.10.jpeg' adicionada ao slide.
+2025-07-03 19:52:17,326 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-06 at 12.54.36.jpeg (Variância: 14.99)
+2025-07-03 19:52:17,334 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.54.36.jpeg' adicionada ao slide.
+2025-07-03 19:52:17,539 - INFO - Relatório final salvo como 'C:/Users/11/OneDrive/Documentos/REPOSITORIOS/PROJETOS PESSOAIS/AutomacaoPPT/relatorios_gerados\Relatorio_Fotografico_2025-07-03_195217.pptx'
