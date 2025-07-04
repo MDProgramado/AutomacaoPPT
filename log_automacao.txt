@@ -137,3 +137,77 @@
 2025-07-03 19:52:17,326 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-06 at 12.54.36.jpeg (Variância: 14.99)
 2025-07-03 19:52:17,334 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.54.36.jpeg' adicionada ao slide.
 2025-07-03 19:52:17,539 - INFO - Relatório final salvo como 'C:/Users/11/OneDrive/Documentos/REPOSITORIOS/PROJETOS PESSOAIS/AutomacaoPPT/relatorios_gerados\Relatorio_Fotografico_2025-07-03_195217.pptx'
+2025-07-04 08:21:56,380 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 09:10:30,805 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:38:45,027 - CRITICAL - Ocorreu um erro crítico no processo: [WinError 3] O sistema não pode encontrar o caminho especificado: ''
+Traceback (most recent call last):
+  File "c:\Users\11\OneDrive\Documentos\REPOSITORIOS\PROJETOS PESSOAIS\AutomacaoPPT\app_gerador_relatorio.py", line 98, in processar_imagens
+    os.makedirs(pasta_destino, exist_ok=True)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen os>", line 228, in makedirs
+FileNotFoundError: [WinError 3] O sistema não pode encontrar o caminho especificado: ''
+2025-07-04 10:38:54,067 - CRITICAL - Ocorreu um erro crítico no processo: [WinError 3] O sistema não pode encontrar o caminho especificado: ''
+Traceback (most recent call last):
+  File "c:\Users\11\OneDrive\Documentos\REPOSITORIOS\PROJETOS PESSOAIS\AutomacaoPPT\app_gerador_relatorio.py", line 98, in processar_imagens
+    os.makedirs(pasta_destino, exist_ok=True)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen os>", line 228, in makedirs
+FileNotFoundError: [WinError 3] O sistema não pode encontrar o caminho especificado: ''
+2025-07-04 10:38:54,749 - CRITICAL - Ocorreu um erro crítico no processo: [WinError 3] O sistema não pode encontrar o caminho especificado: ''
+Traceback (most recent call last):
+  File "c:\Users\11\OneDrive\Documentos\REPOSITORIOS\PROJETOS PESSOAIS\AutomacaoPPT\app_gerador_relatorio.py", line 98, in processar_imagens
+    os.makedirs(pasta_destino, exist_ok=True)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen os>", line 228, in makedirs
+FileNotFoundError: [WinError 3] O sistema não pode encontrar o caminho especificado: ''
+2025-07-04 10:40:04,183 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:40:22,209 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:41:16,036 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:41:17,313 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:41:18,020 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:41:18,285 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:41:18,510 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:43:20,402 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:43:51,129 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:43:51,674 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:43:53,164 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:43:53,594 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:43:53,929 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 10:43:54,120 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 11:28:03,970 - ERROR - Erro ao carregar ou ler o arquivo de configuração: File contains no section headers.
+file: 'c:\\Users\\11\\OneDrive\\Documentos\\REPOSITORIOS\\PROJETOS PESSOAIS\\AutomacaoPPT\\config.ini', line: 4
+'pasta_origem = ./imagens_para_processar\n'
+2025-07-04 11:28:50,587 - ERROR - Erro ao carregar ou ler o arquivo de configuração: File contains no section headers.
+file: 'c:\\Users\\11\\OneDrive\\Documentos\\REPOSITORIOS\\PROJETOS PESSOAIS\\AutomacaoPPT\\config.ini', line: 4
+'pasta_origem = ./imagens_para_processar\n'
+2025-07-04 11:29:02,547 - ERROR - O ficheiro de template 'C:/Users/11/OneDrive/Documentos/REPOSITORIOS/PROJETOS PESSOAIS/AutomacaoPPT/templates/RELATÓRIO FOTOGRÁFICO 05.12.2024.pptx' não existe.
+2025-07-04 11:29:23,766 - ERROR - O ficheiro de template 'C:/Users/11/OneDrive/Documentos/REPOSITORIOS/PROJETOS PESSOAIS/AutomacaoPPT/templates/RELATÓRIO FOTOGRÁFICO 05.12.2024.pptx' não existe.
+2025-07-04 11:29:35,863 - ERROR - O ficheiro de template 'C:/Users/11/OneDrive/Documentos/REPOSITORIOS/PROJETOS PESSOAIS/AutomacaoPPT/templates/RELATÓRIO FOTOGRÁFICO 05.12.2024.pptx' não existe.
+2025-07-04 11:30:13,556 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 11:30:44,452 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 11:31:35,160 - INFO - Nenhuma imagem encontrada na pasta de origem.
+2025-07-04 11:33:12,883 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.10.jpeg (Variância: 71.68)
+2025-07-04 11:33:12,890 - INFO - Adicionando novo slide para as próximas 12 imagens.
+2025-07-04 11:33:12,895 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.10.jpeg' adicionada ao slide.
+2025-07-04 11:33:12,970 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.25.jpeg (Variância: 58.01)
+2025-07-04 11:33:12,977 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.25.jpeg' adicionada ao slide.
+2025-07-04 11:33:13,052 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.22.42.jpeg (Variância: 12.71)
+2025-07-04 11:33:13,057 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.22.42.jpeg' adicionada ao slide.
+2025-07-04 11:33:13,129 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.23.41.jpeg (Variância: 7.59)
+2025-07-04 11:33:13,134 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.23.41.jpeg' adicionada ao slide.
+2025-07-04 11:33:13,202 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.23.54.jpeg (Variância: 41.52)
+2025-07-04 11:33:13,212 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.23.54.jpeg' adicionada ao slide.
+2025-07-04 11:33:13,283 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.04.jpeg (Variância: 17.59)
+2025-07-04 11:33:13,289 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.04.jpeg' adicionada ao slide.
+2025-07-04 11:33:13,364 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.27.jpeg (Variância: 17.48)
+2025-07-04 11:33:13,368 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.27.jpeg' adicionada ao slide.
+2025-07-04 11:33:13,432 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.40.jpeg (Variância: 13.64)
+2025-07-04 11:33:13,441 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.40.jpeg' adicionada ao slide.
+2025-07-04 11:33:13,515 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-05 at 13.24.58.jpeg (Variância: 5.08)
+2025-07-04 11:33:13,522 - INFO - Imagem 'WhatsApp Image 2024-12-05 at 13.24.58.jpeg' adicionada ao slide.
+2025-07-04 11:33:13,714 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.53.22.jpeg' adicionada ao slide.
+2025-07-04 11:33:13,884 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-06 at 12.54.10.jpeg (Variância: 15.56)
+2025-07-04 11:33:13,893 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.54.10.jpeg' adicionada ao slide.
+2025-07-04 11:33:14,028 - WARNING - Imagem possivelmente desfocada: WhatsApp Image 2024-12-06 at 12.54.36.jpeg (Variância: 14.99)
+2025-07-04 11:33:14,038 - INFO - Imagem 'WhatsApp Image 2024-12-06 at 12.54.36.jpeg' adicionada ao slide.
+2025-07-04 11:33:14,180 - INFO - Relatório final salvo como 'C:/Users/11/OneDrive/Documentos/REPOSITORIOS/PROJETOS PESSOAIS/AutomacaoPPT/relatorios_gerados\Relatorio_Fotografico_2025-07-04_113314.pptx'
